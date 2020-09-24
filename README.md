@@ -1,2 +1,3 @@
 # piholeblock
-my own block list for pinhole
+My own block list for pihole,  public collection of domains that anyone can help to expand.
+
